@@ -1,0 +1,15 @@
+URL_TO_TEST = "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login"
+USER_NAME = "Admin"
+PASSWORD = "admin123"
+FIRST_NAME = "Oscar"
+MIDDLE_NAME = "Andres"
+LAST_NAME = "Roa"
+EMAIL= "email@yopmail.com"
+CONTAC_NUMBER= "3201234567"
+KEYWORDS = "Tester, QA"
+NOTES = "Notes"
+JOB_VACANCY = "test"
+FILE_PATH = "B:\\Automatizacion Python\\Proyect\\Prueba.txt"
+TIME_SECONDS_SHORT = 3
+TIME_SECONDS_MEDIUM = 10
+TIME_SECONDS_LONG = 60
